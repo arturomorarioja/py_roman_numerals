@@ -1,11 +1,11 @@
-# Roman numerals - Pyunit unit tests
+# Roman numerals - Pytest unit tests
 
 ## Purpose
-Basic example of Pyunit unit tests.
+Basic example of Pytest unit tests.
 The system under test converts Roman to decimal numerals.
 
 ## Tools
-Pyunit / Python
+Pytest / Python
 
 ## Author:
 Arturo Mora-Rioja
